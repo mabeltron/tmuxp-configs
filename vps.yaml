@@ -1,0 +1,12 @@
+session_name: vps
+windows:
+  - window_name: vps1
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: vps2
+    options:
+      automatic-rename: on
+    panes:
+    - pane

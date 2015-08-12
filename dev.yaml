@@ -1,0 +1,22 @@
+session_name: dev
+windows:
+  - window_name: dev1
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: dev2
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: dev3
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: dev4
+    options:
+      automatic-rename: on
+    panes:
+    - pane

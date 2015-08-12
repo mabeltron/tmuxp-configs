@@ -1,0 +1,22 @@
+session_name: simong-1
+windows:
+  - window_name: admin
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: admin
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: admin
+    options:
+      automatic-rename: on
+    panes:
+    - pane
+  - window_name: admin
+    options:
+      automatic-rename: on
+    panes:
+    - pane

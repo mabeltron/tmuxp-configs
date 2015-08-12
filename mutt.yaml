@@ -1,0 +1,5 @@
+session_name: mutt
+windows:
+        - window_name: mutt
+          panes:
+          - shell_command: "mutt"
